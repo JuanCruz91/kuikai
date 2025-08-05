@@ -1,0 +1,8 @@
+mask
+helmet
+goggles
+gloves
+reflective_clothing
+belt
+person
+harness

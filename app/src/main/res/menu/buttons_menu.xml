@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/testButton"
+        android:icon="@drawable/ic_image"
+        android:title="testButton"
+        android:contentDescription="@string/detect"
+        />
+    <item
+        android:id="@+id/selectButton"
+        android:icon="@drawable/ic_folder"
+        android:title="@string/choose"
+        android:contentDescription="@string/choose"
+        />
+    <item
+        android:id="@+id/liveButton"
+        android:icon="@drawable/ic_live"
+        android:title="@string/live"
+        android:contentDescription="@string/live"
+        />
+    <item
+        android:id="@+id/detectButton"
+        android:icon="@drawable/ic_ia_brain"
+        android:title="@string/detect"
+        android:contentDescription="@string/detect"
+        />
+</menu>

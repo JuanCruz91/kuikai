@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/profie"
+        android:title="PROFILE"
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/ic_person"
+                android:title="My profile" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/btnMore"
+        android:icon="@drawable/menu_points"
+        android:title="API"
+        app:showAsAction="always">
+
+        <menu>
+            android:background="@drawable/backgrounditem"
+            <item
+                android:id="@+id/objects_detection"
+                android:icon="@drawable/ic_tv"
+                android:title="80 Objects Detection" />
+            <item
+                android:id="@+id/epis_detection"
+                android:icon="@drawable/ic_masks"
+                android:title="Epis Detection" />
+            <item
+                android:id="@+id/gender_detection"
+                android:icon="@drawable/ic_gender"
+                android:title="Gender Detection" />
+            <item
+                android:id="@+id/age_detection"
+                android:icon="@drawable/ic_family"
+                android:title="Age Detection" />
+        </menu>
+
+    </item>
+
+    <item
+        android:title="CONTACT US"
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/website"
+                android:icon="@drawable/ic_web_24"
+                android:title="Our website" />
+            <item
+                android:id="@+id/linkedIn"
+                android:icon="@drawable/ic_linkedin_24"
+                android:title="LinkedIn" />
+            <item
+                android:id="@+id/emailadress"
+                android:icon="@drawable/ic_email_24"
+                android:title="Email adress" />
+        </menu>
+    </item>
+
+    <item
+        android:title="SUPPORT"
+        app:showAsAction="always">
+        <menu>
+
+            <item
+                android:id="@+id/help"
+                android:icon="@drawable/ic_help_24"
+                android:title="Help" />
+        </menu>
+    </item>
+
+    <item android:title=""></item>
+</menu>

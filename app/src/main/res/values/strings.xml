@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kuikai</string>
+    <string name="detect">Detect</string>
+    <string name="run_model">Running...</string>
+    <string name="restart">Restart</string>
+    <string name="image_view">Image View</string>
+    <string name="select">Select</string>
+    <string name="live">Live</string>
+    <string name="SDCard">SDCard</string>
+    <string name="my_text">This text has been generated automatically</string>
+    <string name="abrirDrawer">Abrir vista Navigation</string>
+    <string name="cerrarDrawer">Cerrar vista Navigation</string>
+
+    <!--    Array for fill the Spinner on live mode. (threshold bar)-->
+    <string-array name="arraySpinner">
+        <item>
+            <SeekBar style="@style/Widget.AppCompat.SeekBar.Discrete" /></item>
+        <item>prueba</item>
+    </string-array>
+
+    <string name="takepicture">Take Picture</string>
+    <string name="choose">Choose</string>
+    <string name="brain">Detect</string>
+    <string name="internal">Internal</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.pytorch.demo.objectdetection.MainActivity">
+
+    <TextureView
+        android:id="@+id/object_detection_texture_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+        />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="147dp"
+        android:background="@drawable/actionthresholdbartitle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <SeekBar
+            android:id="@+id/seekBarIOU"
+            android:layout_width="261dp"
+            android:layout_height="18dp"
+            android:layout_margin="20dp"
+            android:progress="30"
+            android:progressBackgroundTint="@color/grey_va"
+            android:progressDrawable="@drawable/actionthresholdbar"
+            android:thumb="@drawable/ic_login_greengradient"
+            android:tickMark="@drawable/actionthresholdbarline"
+            android:valueFrom="0"
+            android:valueTo="100"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.894"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+
+        <TextView
+            android:id="@+id/textViewSeekBarIOU"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/seekBarIOU"
+            app:layout_constraintHorizontal_bias="0.674"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.843"
+            tools:ignore="MissingConstraints" />
+
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:layout_width="261dp"
+            android:layout_height="18dp"
+            android:layout_margin="20dp"
+            android:layout_marginBottom="16dp"
+            android:progress="30"
+            android:progressBackgroundTint="@color/grey_va"
+            android:progressDrawable="@drawable/actionthresholdbar"
+            android:thumb="@drawable/ic_login_greengradient"
+            android:tickMark="@drawable/actionthresholdbarline"
+            android:valueFrom="0"
+            android:valueTo="100"
+            app:layout_constraintBottom_toTopOf="@+id/seekBarIOU"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.895"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewSeekBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@+id/textViewSeekBarIOU"
+            app:layout_constraintEnd_toStartOf="@+id/seekBar"
+            app:layout_constraintHorizontal_bias="0.674"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.752"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textViewSeekBarnumObjects"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@+id/textViewSeekBar"
+            app:layout_constraintEnd_toStartOf="@+id/seekBarIOU"
+            app:layout_constraintHorizontal_bias="0.674"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.666"
+            tools:ignore="MissingConstraints" />
+
+        <SeekBar
+            android:id="@+id/seekBarNumObjects"
+            android:layout_width="261dp"
+            android:layout_height="18dp"
+            android:layout_margin="20dp"
+            android:max="30"
+            android:min="1"
+            android:progress="15"
+            android:progressBackgroundTint="@color/grey_va"
+            android:progressDrawable="@drawable/actionthresholdbar"
+            android:thumb="@drawable/ic_login_greengradient"
+            android:tickMark="@drawable/actionthresholdbarline"
+            app:layout_constraintBottom_toTopOf="@+id/seekBar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.896"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

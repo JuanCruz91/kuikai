@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_image.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_family.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_family.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/menu_menu.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/menu/menu.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_backgrounditem.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/backgrounditem.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_login_greengradient.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_login_greengradient.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_linkedin_24.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_linkedin_24.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_folder.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_actionthresholdbartitle.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/actionthresholdbartitle.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_fragment_main.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable-xhdpi_ic_ia_brain.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable-xhdpi/ic_ia_brain.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_image_splash.jpg.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/image_splash.jpg"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_gender.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_gender.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_lightitalic.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_lightitalic.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_lock.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_activity_splash.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable-xhdpi_ic_brain_up.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable-xhdpi/ic_brain_up.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_texture_view.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/texture_view.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_italic.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_italic.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_gradient_va_horizonal.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-20:/drawable/gradient_va_horizonal.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_login.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/login.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_light.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_light.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_gradient_va_horizonal.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/gradient_va_horizonal.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_login_style.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/login_style.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_menu_points.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/menu_points.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_dehaze_24.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_dehaze_24.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_tv.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_tv.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_switch_camera.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_switch_camera.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_gradient_va_vertical.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/gradient_va_vertical.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_bold.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_actionbar.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/actionbar.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_thinitalic.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_thinitalic.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_logotipe_gradient.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_logotipe_gradient.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_nav_header.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_mediumitalic.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_mediumitalic.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_blackitalic.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_blackitalic.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_fragment_splash.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/menu_seekbar_menu.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/menu/seekbar_menu.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_thin.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_thin.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_bolditalic.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_bolditalic.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_email_24.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_email_24.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_web_24.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_web_24.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_actionthresholdbarline.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/actionthresholdbarline.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_image_login_white.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/image_login_white.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_person.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_live.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_live.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_activity_object_detection.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/activity_object_detection.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_fragment_login.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_masks.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_masks.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_help_24.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_help_24.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/layout_activity_login.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/menu_buttons_menu.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/menu/buttons_menu.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_black.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_black.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_regular.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_ic_login_white.png.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/ic_login_white.png"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_buttons.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/buttons.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/drawable_actionthresholdbar.xml.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/drawable/actionthresholdbar.xml"
+    },
+    {
+        "merged": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-merged_res-18:/font_roboto_medium.ttf.flat",
+        "source": "/home/juancruz/.gradle/daemon/7.3.3/org.pytorch.demo.objectdetection.app-main-20:/font/roboto_medium.ttf"
+    }
+]

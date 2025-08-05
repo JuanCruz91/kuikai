@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.google.android.material:material:1.4.0] /home/juancruz/.gradle/caches/transforms-3/851f8dbbea09118f2bf4d1ad58826998/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/juancruz/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/juancruz/.gradle/caches/transforms-3/74cae2a8815039475224d5dbb0c04154/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/juancruz/.gradle/caches/transforms-3/fad0631b695ac311211deded6099821f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.camera:camera-core:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/777b4359d08e84b78cfe90b605358685/transformed/jetified-camera-core-1.0.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [org.pytorch:pytorch_android_torchvision_lite:1.10.0] /home/juancruz/.gradle/caches/transforms-3/82c3270fcb61582bc7c137fc14483f88/transformed/jetified-pytorch_android_torchvision_lite-1.10.0/AndroidManifest.xml:2:1-10:12
+MERGED from [org.pytorch:pytorch_android_lite:1.10.0] /home/juancruz/.gradle/caches/transforms-3/5ffe52453d7d28c5e3f4b82789fea871/transformed/jetified-pytorch_android_lite-1.10.0/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba7cefdb273346127bf361e693a2077a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/juancruz/.gradle/caches/transforms-3/e1a62715087a89352861ae3443fed18d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/juancruz/.gradle/caches/transforms-3/e9a984f11cfdd45d3f413f1476f7f21f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/juancruz/.gradle/caches/transforms-3/1e85e43779483780a9d83976050de6a3/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/juancruz/.gradle/caches/transforms-3/2ff4ed4a92986ebbeb0e280fcea258bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/6288329dc9f81b44d707170357848660/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/juancruz/.gradle/caches/transforms-3/fafe20f33fc1f1973a5a6b5f88e11979/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba064dfc1435359d35d5f2b69379c311/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/juancruz/.gradle/caches/transforms-3/e353275a5dad5cd7dd5d51284dfd5302/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/juancruz/.gradle/caches/transforms-3/2123698e98f614592287cfca95ce0b65/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/juancruz/.gradle/caches/transforms-3/99b67211caf75454d8db8cffaa4c204a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/juancruz/.gradle/caches/transforms-3/4adf412e9eb6257b08f1a55b81966117/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/juancruz/.gradle/caches/transforms-3/21de2c5076ca3e7e4a6f46475d73654f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/juancruz/.gradle/caches/transforms-3/d6f048992aa4c98c57a5f34754783a6f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/juancruz/.gradle/caches/transforms-3/089f3a62207b4741a667b58aa013b8b6/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/juancruz/.gradle/caches/transforms-3/904bdb3126ca59645ce9606f0cf04c69/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/juancruz/.gradle/caches/transforms-3/0a48c48e7ac9cdb1931530cff684f072/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/5b9812e3e90bc8877a40c92e69f6797e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/juancruz/.gradle/caches/transforms-3/f5000f73130b69910a081e3326ad36cc/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/9f821840f0946fb195a4a95a81f9631c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/juancruz/.gradle/caches/transforms-3/417d9309e97530006593d3a748b223c5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/juancruz/.gradle/caches/transforms-3/f5d35f68d2cc3eb6c0b5cd9fd1247d1f/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/juancruz/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/juancruz/.gradle/caches/transforms-3/d7c78291ba9c17c756cf7f37dad2d5c7/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/juancruz/.gradle/caches/transforms-3/a9acd0dedf18860c026beb7159aedafc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/juancruz/.gradle/caches/transforms-3/515b01c1f1b6c0d007494e5098e90b5a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/juancruz/.gradle/caches/transforms-3/01bc8368ad5575d4d6f30c21d182f95c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/juancruz/.gradle/caches/transforms-3/72f1940f015bcc005a737b3aab30d906/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/juancruz/.gradle/caches/transforms-3/bea07825b7217081cc6ac437eb5d453f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/juancruz/.gradle/caches/transforms-3/0dff1c662625ea984670c5782fc7d571/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/juancruz/.gradle/caches/transforms-3/45b72bf86ea80fce2b63582a30f5cef2/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/juancruz/.gradle/caches/transforms-3/05eb5b7623b154418903d97436d6aa68/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/juancruz/.gradle/caches/transforms-3/222f82d0896ea5a4323567186ced203b/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/juancruz/.gradle/caches/transforms-3/8cde5e2570550ba1b0f026d8adb51334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/juancruz/.gradle/caches/transforms-3/2099cfb4e298e2beceaeb5050208494f/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba70c54b8349bcf130060496a9c1409c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:4:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:6:22-79
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:10:5-45:19
+MERGED from [com.google.android.material:material:1.4.0] /home/juancruz/.gradle/caches/transforms-3/851f8dbbea09118f2bf4d1ad58826998/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/juancruz/.gradle/caches/transforms-3/851f8dbbea09118f2bf4d1ad58826998/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/juancruz/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/juancruz/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.5.0] /home/juancruz/.gradle/caches/transforms-3/f5d35f68d2cc3eb6c0b5cd9fd1247d1f/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/juancruz/.gradle/caches/transforms-3/f5d35f68d2cc3eb6c0b5cd9fd1247d1f/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/juancruz/.gradle/caches/transforms-3/a9acd0dedf18860c026beb7159aedafc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/juancruz/.gradle/caches/transforms-3/a9acd0dedf18860c026beb7159aedafc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:11:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/juancruz/.gradle/caches/transforms-3/f5d35f68d2cc3eb6c0b5cd9fd1247d1f/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:17:9-70
+activity#org.pytorch.demo.objectdetection.LoginActivity
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:19:13-42
+activity#org.pytorch.demo.objectdetection.SplashActivity
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:exported
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:24:13-72
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:22:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:28:27-74
+activity#org.pytorch.demo.objectdetection.MainActivity
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:31:9-59
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:31:19-47
+activity#org.pytorch.demo.objectdetection.ObjectDetectionActivity
+ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:32:9-35:52
+	android:screenOrientation
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:35:13-49
+	android:configChanges
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml:33:13-52
+uses-sdk
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] /home/juancruz/.gradle/caches/transforms-3/851f8dbbea09118f2bf4d1ad58826998/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/juancruz/.gradle/caches/transforms-3/851f8dbbea09118f2bf4d1ad58826998/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/juancruz/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/juancruz/.gradle/caches/transforms-3/a07999c6c41f1cb26d56d04d9758bc4c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/juancruz/.gradle/caches/transforms-3/74cae2a8815039475224d5dbb0c04154/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/juancruz/.gradle/caches/transforms-3/74cae2a8815039475224d5dbb0c04154/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/juancruz/.gradle/caches/transforms-3/fad0631b695ac311211deded6099821f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/juancruz/.gradle/caches/transforms-3/fad0631b695ac311211deded6099821f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/777b4359d08e84b78cfe90b605358685/transformed/jetified-camera-core-1.0.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/777b4359d08e84b78cfe90b605358685/transformed/jetified-camera-core-1.0.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [org.pytorch:pytorch_android_torchvision_lite:1.10.0] /home/juancruz/.gradle/caches/transforms-3/82c3270fcb61582bc7c137fc14483f88/transformed/jetified-pytorch_android_torchvision_lite-1.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_torchvision_lite:1.10.0] /home/juancruz/.gradle/caches/transforms-3/82c3270fcb61582bc7c137fc14483f88/transformed/jetified-pytorch_android_torchvision_lite-1.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.10.0] /home/juancruz/.gradle/caches/transforms-3/5ffe52453d7d28c5e3f4b82789fea871/transformed/jetified-pytorch_android_lite-1.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.10.0] /home/juancruz/.gradle/caches/transforms-3/5ffe52453d7d28c5e3f4b82789fea871/transformed/jetified-pytorch_android_lite-1.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba7cefdb273346127bf361e693a2077a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba7cefdb273346127bf361e693a2077a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/juancruz/.gradle/caches/transforms-3/e1a62715087a89352861ae3443fed18d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/juancruz/.gradle/caches/transforms-3/e1a62715087a89352861ae3443fed18d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/juancruz/.gradle/caches/transforms-3/e9a984f11cfdd45d3f413f1476f7f21f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/juancruz/.gradle/caches/transforms-3/e9a984f11cfdd45d3f413f1476f7f21f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/juancruz/.gradle/caches/transforms-3/1e85e43779483780a9d83976050de6a3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/juancruz/.gradle/caches/transforms-3/1e85e43779483780a9d83976050de6a3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/juancruz/.gradle/caches/transforms-3/2ff4ed4a92986ebbeb0e280fcea258bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/juancruz/.gradle/caches/transforms-3/2ff4ed4a92986ebbeb0e280fcea258bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/6288329dc9f81b44d707170357848660/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/6288329dc9f81b44d707170357848660/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/juancruz/.gradle/caches/transforms-3/fafe20f33fc1f1973a5a6b5f88e11979/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/juancruz/.gradle/caches/transforms-3/fafe20f33fc1f1973a5a6b5f88e11979/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba064dfc1435359d35d5f2b69379c311/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba064dfc1435359d35d5f2b69379c311/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/juancruz/.gradle/caches/transforms-3/e353275a5dad5cd7dd5d51284dfd5302/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/juancruz/.gradle/caches/transforms-3/e353275a5dad5cd7dd5d51284dfd5302/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/juancruz/.gradle/caches/transforms-3/2123698e98f614592287cfca95ce0b65/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/juancruz/.gradle/caches/transforms-3/2123698e98f614592287cfca95ce0b65/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/juancruz/.gradle/caches/transforms-3/99b67211caf75454d8db8cffaa4c204a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/juancruz/.gradle/caches/transforms-3/99b67211caf75454d8db8cffaa4c204a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/juancruz/.gradle/caches/transforms-3/4adf412e9eb6257b08f1a55b81966117/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/juancruz/.gradle/caches/transforms-3/4adf412e9eb6257b08f1a55b81966117/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/juancruz/.gradle/caches/transforms-3/21de2c5076ca3e7e4a6f46475d73654f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/juancruz/.gradle/caches/transforms-3/21de2c5076ca3e7e4a6f46475d73654f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/juancruz/.gradle/caches/transforms-3/d6f048992aa4c98c57a5f34754783a6f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/juancruz/.gradle/caches/transforms-3/d6f048992aa4c98c57a5f34754783a6f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/juancruz/.gradle/caches/transforms-3/089f3a62207b4741a667b58aa013b8b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/juancruz/.gradle/caches/transforms-3/089f3a62207b4741a667b58aa013b8b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/juancruz/.gradle/caches/transforms-3/904bdb3126ca59645ce9606f0cf04c69/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/juancruz/.gradle/caches/transforms-3/904bdb3126ca59645ce9606f0cf04c69/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/juancruz/.gradle/caches/transforms-3/0a48c48e7ac9cdb1931530cff684f072/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/juancruz/.gradle/caches/transforms-3/0a48c48e7ac9cdb1931530cff684f072/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/5b9812e3e90bc8877a40c92e69f6797e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/5b9812e3e90bc8877a40c92e69f6797e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/juancruz/.gradle/caches/transforms-3/f5000f73130b69910a081e3326ad36cc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/juancruz/.gradle/caches/transforms-3/f5000f73130b69910a081e3326ad36cc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/9f821840f0946fb195a4a95a81f9631c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/juancruz/.gradle/caches/transforms-3/9f821840f0946fb195a4a95a81f9631c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/juancruz/.gradle/caches/transforms-3/417d9309e97530006593d3a748b223c5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/juancruz/.gradle/caches/transforms-3/417d9309e97530006593d3a748b223c5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/juancruz/.gradle/caches/transforms-3/f5d35f68d2cc3eb6c0b5cd9fd1247d1f/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/juancruz/.gradle/caches/transforms-3/f5d35f68d2cc3eb6c0b5cd9fd1247d1f/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/juancruz/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/juancruz/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/juancruz/.gradle/caches/transforms-3/d7c78291ba9c17c756cf7f37dad2d5c7/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/juancruz/.gradle/caches/transforms-3/d7c78291ba9c17c756cf7f37dad2d5c7/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/juancruz/.gradle/caches/transforms-3/a9acd0dedf18860c026beb7159aedafc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/juancruz/.gradle/caches/transforms-3/a9acd0dedf18860c026beb7159aedafc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/juancruz/.gradle/caches/transforms-3/515b01c1f1b6c0d007494e5098e90b5a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/juancruz/.gradle/caches/transforms-3/515b01c1f1b6c0d007494e5098e90b5a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/juancruz/.gradle/caches/transforms-3/01bc8368ad5575d4d6f30c21d182f95c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/juancruz/.gradle/caches/transforms-3/01bc8368ad5575d4d6f30c21d182f95c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/juancruz/.gradle/caches/transforms-3/72f1940f015bcc005a737b3aab30d906/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/juancruz/.gradle/caches/transforms-3/72f1940f015bcc005a737b3aab30d906/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/juancruz/.gradle/caches/transforms-3/bea07825b7217081cc6ac437eb5d453f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/juancruz/.gradle/caches/transforms-3/bea07825b7217081cc6ac437eb5d453f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/juancruz/.gradle/caches/transforms-3/0dff1c662625ea984670c5782fc7d571/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/juancruz/.gradle/caches/transforms-3/0dff1c662625ea984670c5782fc7d571/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/juancruz/.gradle/caches/transforms-3/45b72bf86ea80fce2b63582a30f5cef2/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/juancruz/.gradle/caches/transforms-3/45b72bf86ea80fce2b63582a30f5cef2/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/juancruz/.gradle/caches/transforms-3/05eb5b7623b154418903d97436d6aa68/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/juancruz/.gradle/caches/transforms-3/05eb5b7623b154418903d97436d6aa68/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/juancruz/.gradle/caches/transforms-3/222f82d0896ea5a4323567186ced203b/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/juancruz/.gradle/caches/transforms-3/222f82d0896ea5a4323567186ced203b/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/juancruz/.gradle/caches/transforms-3/8cde5e2570550ba1b0f026d8adb51334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/juancruz/.gradle/caches/transforms-3/8cde5e2570550ba1b0f026d8adb51334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/juancruz/.gradle/caches/transforms-3/2099cfb4e298e2beceaeb5050208494f/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/juancruz/.gradle/caches/transforms-3/2099cfb4e298e2beceaeb5050208494f/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba70c54b8349bcf130060496a9c1409c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/juancruz/.gradle/caches/transforms-3/ba70c54b8349bcf130060496a9c1409c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+		ADDED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juancruz/projects/Android_APP/ObjectDetection/app/src/main/AndroidManifest.xml
+provider#androidx.camera.camera2.impl.Camera2Initializer
+ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:25:9-30:43
+	android:authorities
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:27:13-64
+	android:multiprocess
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:30:13-40
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] /home/juancruz/.gradle/caches/transforms-3/1b4021e8753813b2586cb69bde05daf1/transformed/jetified-camera-camera2-1.0.0-alpha05/AndroidManifest.xml:26:13-75

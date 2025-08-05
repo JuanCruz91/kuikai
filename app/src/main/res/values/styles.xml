@@ -1,0 +1,22 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/verde_va</item>
+        <item name="colorPrimaryDark">@color/verde_oscuro_va</item>
+        <item name="colorAccent">@color/grey_va</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+  
+<!--    <style name="Theme.SplashScreen" parent="Theme.AppCompat.DayNight.NoActionBar">-->
+<!--        <item name="android:background">@drawable/gradient_va_horizonal</item>-->
+<!--    </style>-->
+
+    <style name="BottombarTheme" parent="Theme.MaterialComponents">
+        <item name="bottomNavigationStyle">@style/Widget.MaterialComponents.BottomNavigationView.Colored</item>
+        <item name="colorPrimary">@color/grey_login_va</item>
+        <item name="colorOnPrimary">@color/grey_login_va</item>
+    </style>
+</resources>
